@@ -9,3 +9,4 @@
 .lesshst
 .wget-hsts
 .viminfo
+!requirements.txt

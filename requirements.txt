@@ -1,0 +1,69 @@
+
+
+# Base Utils
+base
+base-devel
+wget
+openssh
+network-manager
+man-db
+polkit
+reflector
+xdg-utils
+
+# Kernel level
+linux
+linux-headers
+linux-lts
+linux-lts-headers
+mesa
+intel-ucode
+
+#Booting
+grub
+efibootmgr
+
+#files
+dosfstools
+mtools
+
+# Core Utils
+feh
+expac
+
+
+# Sound
+alsa-utils
+pipewire
+pipewire-alsa
+pipewire-pulse
+helvum
+
+# Bluetooth 
+bluez
+bluez-utils
+blueman-manager
+
+# Display
+wayland
+xorg-xwayland
+sway
+swaybg
+swayidle
+swaylock
+wayvnc
+wl-clipboard
+
+# Customisation
+waybar
+wofi
+ttf-font-awesome
+ttf-liberation
+dunst
+mpd
+
+# General Apps
+alacritty
+pcmanfm
+firefox
+discord
