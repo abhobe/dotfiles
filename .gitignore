@@ -1,0 +1,11 @@
+*
+!.*
+
+
+.bash_history
+.cache
+.ssh
+.lvm_history
+.lesshst
+.wget-hsts
+.viminfo
