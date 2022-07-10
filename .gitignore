@@ -1,7 +1,7 @@
 *
 !.*
 !/.SpaceVim.d
-
+*history
 .bash_history
 .cache
 .ssh
