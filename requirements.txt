@@ -61,9 +61,11 @@ ttf-font-awesome
 ttf-liberation
 dunst
 mpd
+lxappearance-gtk3
 
 # General Apps
 alacritty
 pcmanfm
 firefox
 discord
+nextcloud
