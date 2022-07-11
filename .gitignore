@@ -1,12 +1,9 @@
 *
 !.*
-!/.SpaceVim.d
+!/.*
 *history
-.bash_history
+*hst*
 .cache
 .ssh
-.lvm_history
-.lesshst
-.wget-hsts
 .viminfo
 !requirements.txt
