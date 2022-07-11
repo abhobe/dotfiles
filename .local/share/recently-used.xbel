@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/abhobe/Downloads/style.css" added="2022-07-05T05:00:00.696019Z" modified="2022-07-10T04:12:57.320162Z" visited="2022-07-05T05:00:00.696021Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-07-10T04:12:57.320159Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abhobe/Downloads/config" added="2022-07-05T22:42:51.444525Z" modified="2022-07-05T22:42:51.444530Z" visited="2022-07-05T22:42:51.444526Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-07-05T22:42:51.444528Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abhobe/Downloads/dunstrc" added="2022-07-06T04:24:54.307744Z" modified="2022-07-06T04:24:54.307748Z" visited="2022-07-06T04:24:54.307744Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-07-06T04:24:54.307745Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abhobe/Downloads/pipewire-alsa-1%200.3.54-1-x86_64.pkg.tar.zst" added="2022-07-08T22:36:56.265436Z" modified="2022-07-08T22:36:56.265440Z" visited="2022-07-08T22:36:56.265437Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-zstd-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-07-08T22:36:56.265438Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abhobe/Downloads/pipewire-alsa-1%200.3.54-1-x86_64.pkg.tar(1).zst" added="2022-07-08T22:36:56.484832Z" modified="2022-07-08T22:36:56.484836Z" visited="2022-07-08T22:36:56.484832Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zstd"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-07-08T22:36:56.484834Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abhobe/Downloads/lambda-wallpapers-main.zip" added="2022-07-09T22:39:54.425200Z" modified="2022-07-09T22:39:54.425214Z" visited="2022-07-09T22:39:54.425201Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-07-09T22:39:54.425204Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abhobe/Downloads/thom-milkovic-vVT8pMmogAU-unsplash.jpg" added="2022-07-10T05:06:29.694761Z" modified="2022-07-10T05:06:29.694775Z" visited="2022-07-10T05:06:29.694769Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-07-10T05:06:29.694772Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abhobe/Downloads/fabrizio-conti-03lmlRTNo8g-unsplash.jpg" added="2022-07-10T05:34:36.435152Z" modified="2022-07-10T05:34:36.435161Z" visited="2022-07-10T05:34:36.435153Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-07-10T05:34:36.435156Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abhobe/Downloads/alacritty.yml" added="2022-07-10T16:05:03.235440Z" modified="2022-07-10T16:05:03.235446Z" visited="2022-07-10T16:05:03.235441Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-yaml"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-07-10T16:05:03.235444Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abhobe/.SpaceVim.d/init.toml" added="2022-07-11T01:12:54.876690Z" modified="2022-07-11T01:12:54.876712Z" visited="2022-07-11T01:12:54.876695Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/toml"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-07-11T01:12:54.876702Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abhobe/Downloads/Hack.zip" added="2022-07-11T05:06:43.522872Z" modified="2022-07-11T05:06:43.522877Z" visited="2022-07-11T05:06:43.522873Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-07-11T05:06:43.522875Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abhobe/Downloads/JetBrainsMono.zip" added="2022-07-11T05:12:24.960461Z" modified="2022-07-11T05:12:24.960487Z" visited="2022-07-11T05:12:24.960467Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-07-11T05:12:24.960475Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abhobe/Downloads/JetBrainsMono(1).zip" added="2022-07-11T05:15:18.447726Z" modified="2022-07-11T05:15:18.447738Z" visited="2022-07-11T05:15:18.447728Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-07-11T05:15:18.447732Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/abhobe/Downloads/alacritty(1).yml" added="2022-07-11T05:19:32.921288Z" modified="2022-07-11T05:19:32.921296Z" visited="2022-07-11T05:19:32.921289Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-yaml"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-07-11T05:19:32.921292Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

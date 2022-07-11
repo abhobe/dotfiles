@@ -28,8 +28,12 @@ dosfstools
 mtools
 
 # Core Utils
+neovim
 feh
 expac
+zsh
+python-pip
+unzip
 
 
 # Sound
@@ -37,7 +41,7 @@ alsa-utils
 pipewire
 pipewire-alsa
 pipewire-pulse
-helvum
+pavucontrol
 
 # Bluetooth 
 bluez
@@ -56,16 +60,19 @@ wl-clipboard
 
 # Customisation
 waybar
-wofi
+rofi
 ttf-font-awesome
 ttf-liberation
 dunst
 mpd
 lxappearance-gtk3
+papirus-icon-theme
+arc-gtk-theme
 
 # General Apps
 alacritty
 pcmanfm
 firefox
 discord
-nextcloud
+nextcloud-client
+github-clipboard
