@@ -56,10 +56,7 @@ bindsym --locked XF86AudioPrev exec playerctl previous
 # bindsym XF86MonBrightnessDown exec "xbacklight -dec 10; notify-send 'brightness down'"
 
 # Start Applications
-bindsym $mod+Ctrl+b exec terminal -e 'bmenu'
-# bindsym $mod+F3 exec ranger
-bindsym $mod+Shift+F3 exec pcmanfm_pkexec
-bindsym $mod+Shift+d --release exec "killall dunst; exec notify-send 'restart dunst'"
+bindsym $mod+Shift+d --release exec "killall mako; exec notify-send 'restart mako'"
 bindsym Print exec --no-startup-id i3-scrot
 bindsym $mod+Print --release exec --no-startup-id i3-scrot -w
 bindsym $mod+Shift+Print --release exec --no-startup-id i3-scrot -s
@@ -189,6 +186,12 @@ bindsym $mod+Shift+c reload
 # restart i3 inplace (preserves your layout/session, can be used to upgrade i3)
 bindsym $mod+Shift+r restart
 
+# Screenshot
+
+bindsym $mod+p       exec grimshot save active
+bindsym $mod+Shift+p exec grimshot save area
+bindsym $mod+Mod4+p  exec grimshot save output
+bindsym $mod+Ctrl+p  exec grimshot window
 
 # Set shut down, restart and locking features
 bindsym $mod+0 mode "exit"
@@ -203,11 +206,13 @@ mode "exit" {
     bindsym Escape mode "default"
 }
 
-exec --no-startup-id swayidle -w \\
-	timeout 300 'swaylock -f -c 000000' \\
-	timeout 600 'swaymsg "output * dpms off"' \\
-		resume 'swaymsg "output * dpms on"' \\
-	before-sleep 'swaylock -f -c 000000
+
+exec swayidle -w \\
+	timeout 300 'swaylock -f' \\
+	timeout 305 'swaymsg "output * dpms off"' \\
+	resume 'swaymsg "output * dpms on"' \\
+  before-sleep 'playerctl pause' \\
+  before-sleep 'swaylock -c ffffff'
 
 # Resize window (you can also use the mouse for that)
 bindsym $mod+r mode "resize"
@@ -236,10 +241,11 @@ mode "resize" {
 
 # Autostart applications
 # exec --no-startup-id nm-applet
-exec --no-startup-id clipit
+exec --no-startup-id wl-clipboard
 exec --no-startup-id blueman-applet
-# exec_always --no-startup-id sbxkb
-exec --no-startup-id dunst
+exec --no-startup-id keepassxc
+exec --no-startup-id nextcloud
+exec --no-startup-id mako
 
 #Wallpaper
 output * bg ~/.config/wallpapers/landscape.jpg fill
@@ -253,18 +259,6 @@ bar {
 # hide/unhide i3status bar
 bindsym $mod+m bar mode toggle
 
-# Theme colors
-# class                   border  backgr. text    indic.   child_border
-  client.focused          #556064 #556064 #80FFF9 #FDF6E3
-  client.focused_inactive #2F3D44 #2F3D44 #1ABC9C #454948
-  client.unfocused        #2F3D44 #2F3D44 #1ABC9C #454948
-  client.urgent           #CB4B16 #FDF6E3 #1ABC9C #268BD2
-  client.placeholder      #000000 #0c0c0c #ffffff #000000 
-
-  client.background       #2B2C2B
-
-
-}
 
 #############################
 ### settings for i3-gaps: ###

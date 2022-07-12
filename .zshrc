@@ -19,4 +19,5 @@ alias diff='diff --color'
 alias grep='grep --color'
 alias ip='ip --color'
 export MANPAGER="less -R --use-color -Dd+r -Du+b"
-
+export VISUAL='nvim'
+export EDITOR='nvim'

@@ -1,7 +1,6 @@
 Downloads
 Desktop
 Nextcloud
-discord
 
 *history
 *hst*
@@ -11,6 +10,8 @@ discord
 .local/lib
 .local/state
 .local/include
+.config/discord
+.config/keepassxc
 !requirements.txt
 
 

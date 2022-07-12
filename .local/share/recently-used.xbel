@@ -143,4 +143,14 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///home/abhobe/Downloads/Visa-Application-2021.docx" added="2022-07-11T06:16:49.894285Z" modified="2022-07-11T06:16:49.894299Z" visited="2022-07-11T06:16:49.894287Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-07-11T06:16:49.894291Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>
