@@ -57,6 +57,7 @@ swayidle
 swaylock
 wayvnc
 wl-clipboard
+grimshot
 
 # Customisation
 waybar

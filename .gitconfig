@@ -6,3 +6,5 @@
 [user]
 	email = arjun.a.bhobe@gmail.com
 	name = Arjun Bhobe
+[core]
+	editor = nvim
